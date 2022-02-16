@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 833274e3-6fa3-55e7-80d8-2cb330a2fc8b
 title: Paper Reading Strategy
 uid: c6897049-5aea-1c51-4e16-3bfe41a7f0ee
