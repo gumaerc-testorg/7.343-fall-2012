@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides tips on reading papers for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

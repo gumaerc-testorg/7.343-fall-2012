@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 833274e3-6fa3-55e7-80d8-2cb330a2fc8b
 ---
 
-As you read these articles, you may find it helpful to refer to the suggested [paper reading strategy]({{< baseurl >}}/pages/readings/ppr_reading_strtgy), and [questions to consider]({{< baseurl >}}/pages/readings/questions-to-consider).
+As you read these articles, you may find it helpful to refer to the suggested {{% resource_link c6897049-5aea-1c51-4e16-3bfe41a7f0ee "paper reading strategy" %}}, and {{% resource_link 15a85452-df30-a3bb-b033-2f1380dfe01c "questions to consider" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -34,7 +36,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#1)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#1" %}}
 
 
 {{< tdclose >}}
@@ -52,7 +54,7 @@ No readings
 
 Targeted Therapy in the Pre-Systems Biology Era
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#2)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#2" %}}
 
 
 {{< tdclose >}}
@@ -76,7 +78,7 @@ Konopka, J. B., S. M. Watanabe, et al. "[Cell Lines and Clinical Isolates Derive
 
 High-Throughput Data Acquisition I: Gene Sequencing and Functional Genomics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#3)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#3" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -98,7 +100,7 @@ Sun, T., N. Aceto, et al. "[Activation of Multiple Proto-oncogenic Tyrosine Kina
 
 High-Throughput Data Acquisition II: Proteomics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#4)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#4" %}}
 
 
 {{< tdclose >}}
@@ -122,7 +124,7 @@ Bendall, S. C., E. F. Simonds, et al. "[Single-cell Mass Cytometry of Differenti
 
 Gene Expression Analysis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#5)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#5" %}}
 
 
 {{< tdclose >}}
@@ -146,7 +148,7 @@ Venet, D., J. E. Dumont, et al. "[Most Random Gene Expression Signatures are Sig
 
 Network Biology
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#6)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#6" %}}
 
 
 {{< tdclose >}}
@@ -170,7 +172,7 @@ Chuang, H. Y., E. Lee, et al. "[Network-based Classification of Breast Cancer Me
 
 Clustering
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#7)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#7" %}}
 
 
 {{< tdclose >}}
@@ -194,7 +196,7 @@ Jiang, H., J. R. Pritchard, et al. "[A Mammalian Functional-genetic Approach to 
 
 Regression Modeling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#8)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#8" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +220,7 @@ Lau, K. S., A. M. Juchheim, et al. "[Vivo Systems Analysis Identifies Spatial an
 
 Logic Modeling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#9)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#9" %}}
 
 
 {{< tdclose >}}
@@ -242,7 +244,7 @@ Morris, M. K., J. Saez-Rodriguez, et al. "[Training Signaling Pathway Maps to Bi
 
 Kinetic Modeling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#10)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#10" %}}
 
 
 {{< tdclose >}}
@@ -266,7 +268,7 @@ Batchelor, E., C. S. Mock, et al. "[Recurrent Initiation: a Mechanism for Trigge
 
 Structural Biology
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#11)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#11" %}}
 
 
 {{< tdclose >}}
@@ -290,7 +292,7 @@ Rasmussen, S. G., B. T. DeVree, et al. "[Crystal Structure of the Beta2 Adrenerg
 
 Synthetic Biology
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#12)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#12" %}}
 
 
 {{< tdclose >}}
@@ -314,7 +316,7 @@ Rutherford, B. J., R. H. Dahl, et al. "[Functional Genomic Study of Exogenous N-
 
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#13)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#13" %}}
 
 
 {{< tdclose >}}
@@ -332,7 +334,7 @@ No readings
 
 Systems Pharmacology and Network Medicine
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#14)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#14" %}}
 
 
 {{< tdclose >}}
@@ -356,7 +358,7 @@ Barretina, J., G. Caponigro, et al. "[The Cancer Cell Line Encyclopedia Enables 
 
 Final Class
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#15)
+{{% resource_link 2dd100b2-2204-9a6f-5799-4a365dc98c34 "See the Lecture Summary" "#15" %}}
 
 
 {{< tdclose >}}
