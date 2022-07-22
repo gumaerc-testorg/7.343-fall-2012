@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a list of questions to consider when reading papers
+  for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 833274e3-6fa3-55e7-80d8-2cb330a2fc8b
 title: Questions to Consider
 uid: 15a85452-df30-a3bb-b033-2f1380dfe01c
